@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+    <film>
+        <film0 category = "title">
+            <name>Shrek</name>
+        </film0>
+        <film0 category = "genre">
+           <name>Animated</name>
+        </film0>
+        <film0 category = "year">
+            <name>2001</name>
+        </film0>
+        <personal_rating>
+            <name>10/10</name>
+        </personal_rating>
+        <director>
+            <name>Andrew Adamson</name>
+        </director>
+        <actors>
+            <name>Mike Myers</name>
+            <name>Eddie Murphy</name>
+            <name>Cameron Diaz</name>
+        </actors>
+    </film>
+    <film>
+        <film0 category = "title">
+            <name>Shrek 2</name>
+        </film0>
+        <film0 category = "genre">
+            <name>Animated</name>
+        </film0>
+        <film0 category = "year">
+            <name>2004</name>
+        </film0>
+        <personal_rating>
+            <name>10/10</name>
+        </personal_rating>
+        <director>
+            <name>Andrew Adamson</name>
+        </director>
+        <actors>
+            <name>Mike Myers</name>
+            <name>Eddie Murphy</name>
+            <name>Cameron Diaz</name>
+        </actors>
+    </film>
+    <film>
+        <film0 category = "title">
+            <name>Shrek the Third</name>
+        </film0>
+        <film0 category = "genre">
+            <name>Animated</name>
+        </film0>
+        <film0 category = "year">
+            <name>2007</name>
+        </film0>
+        <personal_rating>
+            <name>10/10</name>
+        </personal_rating>
+        <director>
+            <name>Andrew Adamson</name>
+        </director>
+        <actors>
+            <name>Mike Myers</name>
+            <name>Eddie Murphy</name>
+            <name>Cameron Diaz</name>
+        </actors>
+    </film>
+    <film>
+        <film0 category = "title">
+            <name>Shrek Forever After</name>
+        </film0>
+        <film0 category = "genre">
+            <name>Animated</name>
+        </film0>
+        <film0 category = "year">
+            <name>2010</name>
+        </film0>
+        <personal_rating>
+            <name>10/10</name>
+        </personal_rating>
+        <director>
+            <name>Andrew Adamson</name>
+        </director>
+        <actors>
+            <name>Mike Myers</name>
+            <name>Eddie Murphy</name>
+            <name>Cameron Diaz</name>
+        </actors>
+    </film>
+    <film>
+        <film0 category = "title">
+            <name>Shrek 4-D</name>
+        </film0>
+        <film0 category = "genre">
+            <name>Animated</name>
+        </film0>
+        <film0 category = "year">
+            <name>2003</name>
+        </film0>
+        <personal_rating>
+            <name>10/10</name>
+        </personal_rating>
+        <director>
+            <name>Andrew Adamson</name>
+        </director>
+        <actors>
+            <name>Mike Myers</name>
+            <name>Eddie Murphy</name>
+            <name>Cameron Diaz</name>
+        </actors>
+    </film>
+</movies>
