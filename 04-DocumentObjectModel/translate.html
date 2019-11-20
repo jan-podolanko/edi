@@ -5,10 +5,18 @@
 		<meta charset="UTF-8">
 	</head>
 	<body>
-		<h3>Sticks and stones may break my bones, but words will never harm me.</h3>
+		<h3 onmouseover="tlumaczenie(this)" onmouseout="tekst(this)">Sticks and stones may break my bones, but words will never harm me.</h3>
 		<script>
+			function tlumaczenie(x) {
+				x.innerHTML = 'Translation: Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią'
+			}
+
+			function tekst(x) {
+				x.innerHTML = 'Sticks and stones may break my bones, but words will never harm me'
+			}
 			// a JavaScript code here ...
 			
+
 			// Translation:
 			// Kije i kamienie kości mi połamią, ale twoje słowa nigdy mnie nie zranią
 			
